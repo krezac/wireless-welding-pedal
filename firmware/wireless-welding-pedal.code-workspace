@@ -2,6 +2,14 @@
 	"folders": [
 		{
 			"path": "btserial-poc"
+		},
+		{
+			"name": "poc-espnow-tx",
+			"path": "poc-espnow-tx"
+		},
+		{
+			"name": "saola",
+			"path": "..\\..\\..\\..\\PlatformIO\\Projects\\saola"
 		}
 	],
 	"settings": {}
