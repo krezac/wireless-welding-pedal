@@ -10,6 +10,14 @@
 		{
 			"name": "saola",
 			"path": "..\\..\\..\\..\\PlatformIO\\Projects\\saola"
+		},
+		{
+			"name": "ble-tx",
+			"path": "ble-tx"
+		},
+		{
+			"name": "ble-rx",
+			"path": "ble-rx"
 		}
 	],
 	"settings": {}
